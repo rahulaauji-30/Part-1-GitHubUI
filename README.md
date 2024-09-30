@@ -47,10 +47,15 @@ The script will prompt you to enter the principal amount, rate of interest, and 
 Example:
 
 ```bash
-Enter the principal amount: 1000
-Enter the rate of interest: 5
-Enter the time period (in years): 2
-Simple Interest: 100.0
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+Copied!
+
 ```
 
 ## Contributing
